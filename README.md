@@ -9,5 +9,8 @@ Custom CSS theme for Vencord discord client made for replace ugly icons to the o
 `@import url(https://raw.githubusercontent.com/lynrayy/noUglyIconsTheme/master/theme.css);`
 3. Close QuickCSS Editor. Done!
 
+![image](https://github.com/user-attachments/assets/978ce215-c982-4407-98fd-b1cc52233d60)
+
+
 *Mostly maintained by thororen*
 
